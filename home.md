@@ -8,15 +8,16 @@ PURPOSE STATEMENT: to design a robot arm using bio-inspiration for higher modula
 From David M: 95% percent of all of today's robots completely omit dynamics.  Nobody cared until 2024.12.03, a very magical day. Mathematics which we developed 100 years ago are not being utilized.  It's not too hard, but it is specialized and to make an elegant design that implements dynamics while accomodating materials, manufacturing, and software control is too difficult for any one company.  For this reason, we will open the design to collaborate with experts globally.
 
 ## More Open Projects
-More Open Source designs initiated by DM & SCUTTLE team:
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [Mechatronics Resources](https://bit.ly/openmechatronics)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https://bit.ly/openspinproject)
-* [OpenAir](https://bit.ly/openairproject)
-* [OpenLab](https://bit.ly/openlabproject)
+
+More Open Source designs:
+* [OpenAir](https://qr.net/openairproject)
+* [OpenArm](https://qr.net/openarmproject)
+* [OpenBox](https://qr.net/openboxproject)
+* [OpenJar](https://qr.net/openjarproject)
+* [OpenLab](https://qr.net/openlabproject)
+* [OpenME](https://qr.net/openmeproject)
+* [OpenSpin](https://qr.net/openspinproject)
+
 
 ## Foreword
 
